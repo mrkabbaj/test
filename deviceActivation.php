@@ -27,7 +27,7 @@ $deviceCertRequest="";
 foreach ($books as $book) {
 	if($cont==1)
 	$activationRamdomess= $book->nodeValue;
-	if($cont==12)
+	if($cont==18)
 	$uniqueDiviceID= $book->nodeValue;
 	$cont++;
  
